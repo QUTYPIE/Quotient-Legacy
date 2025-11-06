@@ -1,6 +1,6 @@
 TORTOISE = {
     "connections": {
-         "default": "postgres://username:password@host/db_name",
+         "default": "postgres://postgres.tgfuqpufdrgdlrnyqvjw:@Nick_FURY6023@aws-1-us-east-1.pooler.supabase.com:5432/postgres",
      
     },
     "apps": {
